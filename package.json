@@ -1,0 +1,22 @@
+{
+  "name": "notepanel",
+  "version": "0.0.1",
+  "description": "Notepanel creates a webbased note programm for streaming and recording lets plays",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExtremTechniker/notepanel.git"
+  },
+  "keywords": [
+    "Note"
+  ],
+  "author": "ExtremTechniker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ExtremTechniker/notepanel/issues"
+  },
+  "homepage": "https://github.com/ExtremTechniker/notepanel#readme"
+}
